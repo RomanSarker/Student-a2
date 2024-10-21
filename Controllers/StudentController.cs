@@ -15,7 +15,7 @@ namespace StudentList.Controllers
             Teacher teacher1 = new Teacher { TeacherId = 1, Name = "Mr. Nafiur Islam" };
             Course course1 = new Course { CourseId = 1, CourseName = ".Net Core", TeacherId = 1, CourseTeacher = teacher1 };
 
-            Teacher teacher2 = new Teacher { TeacherId = 2, Name = "Mr. Supporter" };
+            Teacher teacher2 = new Teacher { TeacherId = 2, Name = "Mr. Supporterr" };
             Course course2 = new Course { CourseId = 2, CourseName = ".Net Framework", TeacherId = 2, CourseTeacher = teacher2 };
 
             Teacher teacher3 = new Teacher { TeacherId = 3, Name = "Mrs. Supporter22" };
